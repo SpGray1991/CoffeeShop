@@ -62,8 +62,7 @@ border: 1px solid #32323D;
 .hero {
   min-height: 739px;
   padding-bottom: 166px;
-  /* background: url('../img/bg/Rectangle 12') center center/cover no-repeat; */
-  background-color: green;
+  background: url('/img/icons/Rectangle 30.png') center center/cover no-repeat;
 }
 
 .conteiner {
